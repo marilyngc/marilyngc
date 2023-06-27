@@ -18,8 +18,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilyncg&show_icons=true&theme=material-palenight)
 <!---
 Here are some ideas to get you started:
 
