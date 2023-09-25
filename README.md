@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Marilyn</h1>
 
 
-
-[![Opera-Instant-nea-2023-09-25-141931-www-canva-com.png](https://i.postimg.cc/nrLkLLfs/Opera-Instant-nea-2023-09-25-141931-www-canva-com.png)](https://postimg.cc/S2w8Tksq)
+[![Marilyn-celis.png](https://i.postimg.cc/DwtVTHRT/Marilyn-celis.png)](https://postimg.cc/18c70C9C)
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marilyncelisgutierrez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilyn-celis-3b0130214/)
