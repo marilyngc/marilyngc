@@ -20,15 +20,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" title="SASS">
   <img alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript">
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" title="Figma">
-     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40" title="Figma">
+    
+
 
 </div>
-
+   
+<div>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40" height="40"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+         <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" alt="nodejs" width="40" height="40"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="postman" width="40" height="40"/> 
+</div>
 <br/>
 
 
