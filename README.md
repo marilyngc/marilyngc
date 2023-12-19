@@ -29,7 +29,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40" height="40"/> 
      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
          <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" alt="nodejs" width="40" height="40"/> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="postman" width="40" height="40"/> 
+     <img src="https://res.cloudinary.com/axiever/image/upload/v1677639160/Socket-io.svg_ormrdv.png" alt="socket" width="40" height="40"/>
 
 </div>
 
